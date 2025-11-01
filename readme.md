@@ -93,3 +93,10 @@ http://127.0.0.1:3000/api/v1/order/create (Post)
 }
 Order List:-
 http://127.0.0.1:3000/api/v1/order/list (Get)
+
+
+
+https://api-my-shop.onrender.com/api/v1/user/register
+https://api-my-shop.onrender.com/api/v1/order/list
+https://api-my-shop.onrender.com/api/v1/order/create
+https://api-my-shop.onrender.com/api/v1/user/login
